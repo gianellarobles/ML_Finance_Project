@@ -1,4 +1,4 @@
-# ML_Fiance_Project
+# ML_Finance_Project
 #
 ## Loan Performance (Servicing)
 #### loan_sequence_number – Unique identifier for each loan (merge key)
